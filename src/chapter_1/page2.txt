@@ -8,3 +8,5 @@ now we have git enabled
 
 
 we have jus edited some text here and will be pushed soon.
+
+This a new editing tho
