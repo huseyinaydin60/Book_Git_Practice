@@ -1,0 +1,4 @@
+
+Today we learned Git and GitHub
+
+it looks fun so far
